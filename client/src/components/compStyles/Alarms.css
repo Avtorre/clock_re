@@ -1,0 +1,14 @@
+@media only screen and (min-width: 1201px) {
+    .alarms-main {
+        display: inline-block;
+        width: 40%;
+        margin-left: 10%;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .alarms-main {
+        margin-top: 150px;
+        width: 100%;
+    }
+}

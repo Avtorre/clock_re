@@ -1,0 +1,52 @@
+/*.task-form {
+    width: 40%;
+    margin-top: 20px;
+    margin-left: 10%;
+}
+*/
+input {
+    appearance: none;
+    border: none;
+    outline: none;
+    background: none;
+}
+
+.form {
+    display: block;
+}
+
+#task-input {
+    background-color: #1F2937;
+    padding: 1rem;
+    width: 65%;
+    height: 25px;
+    border-radius: 1rem;
+    color: #EEE;
+    font-size: 1.25rem;
+}
+
+#task-input:focus {
+    outline: 2px solid rgb(0, 167, 167);
+}
+
+#task-submit {
+    vertical-align: middle;
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    padding-bottom: 5px;
+    font-size: 1rem;
+    font-weight: 700;
+    color: #39b32e;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+#task-submit:hover {
+    opacity: 0.8;
+}
+
+#task-submit:active{
+    opacity: 0.6;
+}
+

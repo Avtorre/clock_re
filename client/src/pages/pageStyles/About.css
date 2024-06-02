@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    color: #fff;
+}
+
+.abt {
+    margin-top: 100px;
+    justify-content: center;
+    color: #fff;
+    display: flex;
+}

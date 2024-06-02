@@ -1,0 +1,10 @@
+.clock {
+    width: 60%;
+    font-size: 80pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    color:azure;
+    padding-top: 60px;
+}
